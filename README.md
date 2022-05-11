@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Awesome solution design with latest technologies**
 
-- 🌱 I have domain expertise in **Banking & Finacle**
+- 🌱 I have domain expertise in **Banking & Finance**
 
 - 👯 I’m looking to collaborate with **Solutions Architect & Developers communities around the world**
 
