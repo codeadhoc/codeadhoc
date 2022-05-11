@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Awesome solution design with latest technologies**
 
-- 🌱 I’m currently learning **AWS & TOGAF**
+- 🌱 I have domain expertise in **Banking & Finacle**
 
 - 👯 I’m looking to collaborate with **Solutions Architect & Developers communities around the world**
 
-- 💬 Ask me about **NodeJS, Blockchain & .NET**
+- 💬 Ask me about **NodeJS, Blockchain(Etherum,Polygon,Binance,HyperLedger Fabric), Go Lang & .NET**
 
 - 📫 How to reach me **viral.v21@gmail.com**
 
